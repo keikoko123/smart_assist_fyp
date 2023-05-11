@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "230849926582",
+    "project_id": "smart-assist-fyp",
+    "storage_bucket": "smart-assist-fyp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230849926582:android:520a6663a2012c581c1d17",
+        "android_client_info": {
+          "package_name": "com.example.smart_assist_fyp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230849926582-hnv6ifd9f4ft2aa9e98ukh4499frjoec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smart_assist_fyp",
+            "certificate_hash": "3cc80dd237297745476544419238351a6a60a3ee"
+          }
+        },
+        {
+          "client_id": "230849926582-hn0h2a8lslgdsf7o4m1uef8a6m6m8pdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA62fvYJZsNSLCRuWiY6Mxk4F7004pjJG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230849926582-hn0h2a8lslgdsf7o4m1uef8a6m6m8pdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
